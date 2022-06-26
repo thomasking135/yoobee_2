@@ -1,5 +1,4 @@
 ## Welcome to My Tourism NZ Project
-![Tourism NZ](accomodate.JPG)
 
 Here is the link to the hosted [Tourism NZ website ](https://thomaskingtourismapp.000webhostapp.com/).
 My project was hosted on the Hostinger web server.
@@ -23,3 +22,5 @@ My project was done on MS Project with the approval of Miguel (Michael) Cruz my 
 ### GitHub
 
 Here are the files of the project uploaded to [GitHub](https://github.com/thomasking135/tourism_nz)
+
+![Tourism NZ](accomodate.JPG)
