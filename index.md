@@ -1,5 +1,5 @@
 ## Welcome to My Tourism NZ Project
-![Tourism NZ](accommodate.jpg)
+![Tourism NZ](accomodate.JPG)
 
 Here is the link to the hosted [Tourism NZ website ](https://thomaskingtourismapp.000webhostapp.com/).
 My project was hosted on the Hostinger web server.
