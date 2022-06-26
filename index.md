@@ -1,33 +1,24 @@
 ## Welcome to My Tourism NZ Project
 
-You can use the [editor on GitHub](https://github.com/thomasking135/yoobee_2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is the link to the hosted [Tourism NZ website ](https://thomaskingtourismapp.000webhostapp.com/).
+My project was hosted on the Hostinger web server.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You will also find the link here to the [Trello board](https://trello.com/invite/b/vdLZn5SG/4645affbf1ec7cb011fc18023cf4b474/tourism-new-zealand) where the project was completed.
+I did a version of my project management on Trello as it was an industry tool that Yoobee encouraged it's students to use.
 
-### Markdown
+### Reports
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is the link to the [Internal Report](https://1drv.ms/w/s!AhrA0Afk2ATWj7kiVZvTedhrxKibgA?e=ekDAju).
 
-```markdown
-Syntax highlighted code block
+Here is the link to the [External Report](https://1drv.ms/w/s!AhrA0Afk2ATWj7kj2yzeTQfs1-J7ZA?e=RyIEsk).
 
-# Header 1
-## Header 2
-### Header 3
+Here is the link to the [Reflection and Tools Report](https://1drv.ms/w/s!AhrA0Afk2ATWj7kmW_SDpe8F726SeA?e=DD1RAK).
 
-fksghjfdkg
+### Additional Reports and Resources
 
-**Bold** and _Italic_ and `Code` text
+Here is the link to the [MS Project Report](https://1drv.ms/w/s!AhrA0Afk2ATWj7kCVsNbNg3JIvR8nw?e=Y7w2P7).
+My project was done on MS Project with the approval of Miguel (Michael) Cruz my WUX supervisor. All information in this report stems from my use of MS Project. 
 
-[Link](url) and ![Image](src)
-```
+### GitHub
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thomasking135/yoobee_2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Here are the files of the project uploaded to [GitHub](https://github.com/thomasking135/tourism_nz)
